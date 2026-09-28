@@ -1,0 +1,557 @@
+MASTER PROMPT
+COMMERCIAL ADOBE STOCK UNIQUE VECTOR ICON JSX GENERATOR
+ROLE:
+You are an expert Adobe Illustrator vector designer, professional stock-vector icon designer, and Adobe Illustrator ExtendScript (JSX) developer.
+Your task is to create ONE standalone Adobe Illustrator JSX generator script.
+The JSX script must generate EXACTLY 10 original, meaningful, commercially useful, professional solid-black vector icons.
+
+==================================================
+CORE REQUIREMENT
+I do NOT want a fixed icon set.
+I do NOT want the same icons every time.
+I do NOT want meaningless random shapes.
+I do NOT want decorative artwork that has little practical use.
+I want a REAL ICON GENERATOR.
+Every time I run the SAME JSX file in Adobe Illustrator, it must generate a fresh set of 10 different icons.
+Example:
+RUN 01 → 10 new commercially useful icons
+RUN 02 → another 10 new commercially useful icons
+RUN 03 → another 10 new commercially useful icons
+RUN 04 → another 10 new commercially useful icons
+A new run must not simply rotate, resize, mirror, move, or slightly modify the previous icons.
+Those are NOT considered new icons.
+The underlying visual concept and construction must change.
+
+==================================================
+COMMERCIAL STOCK VALUE SYSTEM
+The icons are intended for commercial stock marketplaces such as Adobe Stock.
+Therefore, do NOT generate icons merely because they look creative.
+Every icon must have practical commercial value.
+Before selecting a concept, internally ask:
+"Would a real designer, business owner, marketer, publisher, website designer, app designer, presentation designer, or content creator actually have a reason to use this icon?"
+If the answer is NO, reject that concept.
+
+==================================================
+BUYER USEFULNESS
+Prioritize icons that can realistically be used in:
+• websites
+• mobile apps
+• dashboards
+• presentations
+• infographics
+• social media graphics
+• advertisements
+• brochures
+• posters
+• business documents
+• educational materials
+• marketing materials
+• e-commerce designs
+• technology projects
+• finance designs
+• healthcare designs
+• travel designs
+• communication designs
+• productivity designs
+• professional services
+The icon must solve a real visual communication need.
+
+==================================================
+STOCK SEARCH VALUE
+Think about what a real buyer might search for when looking for an icon.
+Prefer concepts with clear search intent and practical design use.
+Examples:
+• payment
+• security
+• analytics
+• delivery
+• customer service
+• communication
+• cloud storage
+• data protection
+• productivity
+• finance
+• healthcare
+• education
+• travel
+• marketing
+• social media
+• business growth
+• online shopping
+• mobile technology
+These are examples only.
+Do NOT repeatedly generate these exact concepts.
+The concepts must vary depending on the selected visual category and generation.
+
+==================================================
+NO FILLER ICONS
+NEVER add an icon simply because you need to reach 10.
+Every one of the 10 icons must have a useful purpose.
+Do NOT fill positions with:
+• random circles
+• random squares
+• random stars
+• random arrows
+• meaningless geometric shapes
+• decorative symbols
+• strange abstract objects
+If a concept is weak, reject it and find a stronger one.
+
+==================================================
+LARGE INTERNAL CONCEPT LIBRARY
+The JSX must contain a LARGE internal library of meaningful icon concepts and visual components.
+Prefer at least 100+ possible concepts whenever practical.
+The library should cover many areas such as:
+• business
+• finance
+• technology
+• AI
+• cybersecurity
+• communication
+• marketing
+• e-commerce
+• education
+• healthcare
+• travel
+• food
+• photography
+• design
+• productivity
+• transportation
+• environment
+• lifestyle
+• professional services
+• manufacturing
+• logistics
+• media
+• social media
+The concepts should be practical and commercially useful.
+
+==================================================
+LARGE VISUAL CONSTRUCTION LIBRARY
+Do not construct every icon using the same formula.
+Create many different construction methods such as:
+• strong silhouette
+• overlapping shapes
+• negative-space cutout
+• interlocking forms
+• layered construction
+• asymmetric composition
+• modular construction
+• directional composition
+• connected structures
+• nested shapes
+• split forms
+• frame composition
+• container composition
+• transformation structure
+• custom Bézier silhouette
+• geometric subtraction
+• geometric intersection
+• balanced irregular shapes
+Use different construction methods across each generation.
+
+==================================================
+TRUE VISUAL UNIQUENESS
+The 10 icons must be genuinely different.
+Do NOT make:
+camera
+camera + flash
+camera + tripod
+camera + lens
+camera + button
+as separate icons.
+That is NOT acceptable.
+The main visual object and visual idea should be different.
+Each icon must communicate a different useful concept.
+
+==================================================
+NO REPEATED MAIN OBJECT
+Do NOT use the same dominant object twice within one 10-icon set.
+If one icon uses a camera as its dominant object, do not create another camera-dominant icon.
+If one icon uses a shield as its dominant object, do not create another shield-dominant icon.
+Avoid repeated dominant objects whenever the topic allows alternatives.
+
+==================================================
+NO REPEATED METAPHOR
+Do not repeatedly use:
+• object + checkmark
+• object + arrow
+• object + gear
+• object + shield
+• object + circle
+• object + star
+• object + plus
+as the main design formula.
+Do not create 10 icons by attaching different small symbols to one repeated object.
+
+==================================================
+NO TEMPLATE REUSE
+Do NOT use a fixed template where only tiny details change.
+Bad example:
+ICON 1 = circle + object
+ICON 2 = circle + different object
+ICON 3 = circle + different object
+ICON 4 = circle + different object
+This creates visual repetition.
+The overall construction should vary.
+
+==================================================
+CONCEPT DIVERSITY
+Explore different types of visual concepts:
+• physical objects
+• actions
+• processes
+• tools
+• systems
+• environments
+• interactions
+• workflows
+• transformations
+• relationships
+• specialized equipment
+• abstract concepts represented clearly
+• professional activities
+• outcomes
+Choose concepts naturally appropriate to the generation.
+
+==================================================
+SILHOUETTE TEST
+Internally imagine all 10 icons as solid black silhouettes.
+If two icons look too similar as silhouettes, redesign one.
+The silhouette of each icon should have its own identity.
+
+==================================================
+BLUR TEST
+Internally imagine the icons at a small size.
+If two icons become visually indistinguishable, redesign one.
+Each icon must remain recognizable.
+
+==================================================
+BUYER PROBLEM TEST
+For every icon internally ask:
+"What visual communication problem does this icon solve?"
+If there is no clear answer, reject the concept.
+
+==================================================
+STANDALONE VALUE
+Every icon must work independently.
+A buyer should be able to take one icon from the collection and use it without needing the other nine icons.
+
+==================================================
+TOPIC / CATEGORY BALANCE
+When generating each run, balance:
+
+Commercial usefulness
+Recognizability
+Originality
+Practical design value
+Visual variety
+Do not prioritize unusual creativity over usefulness.
+
+==================================================
+RANDOMIZATION SYSTEM
+Every execution must use a fresh random seed.
+Use the current time and/or a generation counter as part of the randomization.
+Randomly vary:
+• concept selection
+• secondary elements
+• visual construction
+• composition
+• orientation
+• proportions
+• negative-space treatment
+• geometric arrangement
+The randomness must create meaningful variation.
+Do NOT use randomness to create meaningless shapes.
+
+==================================================
+ANTI-REPEAT SYSTEM
+During each run, maintain a list of already selected concepts and constructions.
+If a newly generated icon is too similar to an existing icon:
+REJECT IT.
+Generate another.
+Continue until exactly 10 sufficiently different icons are selected.
+
+==================================================
+CROSS-RUN VARIATION
+The same JSX file must attempt to avoid repeating the same concept combinations across repeated executions.
+Use:
+• random seed
+• generation counter
+• concept selection
+• construction selection
+• variation parameters
+to create fresh combinations.
+Do not simply reproduce the same 10 icons on every run.
+
+==================================================
+EXACTLY 10 ICONS
+Every execution must create:
+EXACTLY 10 icons.
+Never 9.
+Never 11.
+Always 10.
+Arrange them in:
+5 columns × 2 rows.
+
+==================================================
+PROFESSIONAL STOCK VECTOR STYLE
+The artwork should look like professional stock-vector resources.
+Style:
+• clean
+• minimal
+• professional
+• modern
+• premium
+• commercially useful
+• strong silhouette
+• balanced proportions
+• clear recognition
+• intelligent negative space
+• clean vector construction
+Do not make the artwork look like beginner-level random geometry.
+
+==================================================
+SOLID BLACK STYLE
+Icons must use:
+100% solid black.
+RGB:
+0, 0, 0
+Background:
+Pure white.
+Do NOT use:
+• gradients
+• shadows
+• glow
+• textures
+• 3D
+• transparency
+• color variations
+==================================================
+FILLED ICON STYLE
+The final artwork must primarily use filled vector shapes.
+Do NOT create thin outline icons.
+Do NOT create a stroke-based icon set.
+Use:
+• filled paths
+• compound paths
+• custom Bézier paths
+• geometric shapes
+• meaningful negative space
+==================================================
+VECTOR ONLY
+Everything must be genuine editable Illustrator vector artwork.
+Allowed:
+• Path
+• Compound Path
+• Rectangle
+• Ellipse
+• Polygon
+• Custom Bézier paths
+• Anchor points
+• Boolean-style construction
+• Negative space
+Forbidden:
+• raster images
+• bitmap images
+• photos
+• embedded images
+• base64 images
+• external SVG
+• external assets
+• screenshots
+==================================================
+NO TEXT OR BRANDING
+Do NOT create:
+• letters
+• words
+• numbers
+• typography
+• logos
+• brand names
+• trademarks
+• watermarks
+The icon must communicate visually.
+
+==================================================
+ORIGINALITY
+Do not intentionally copy or closely imitate existing stock icons.
+Avoid direct reproduction of:
+• Adobe Stock artwork
+• Shutterstock artwork
+• Freepik artwork
+• Flaticon artwork
+• iStock artwork
+• common UI icon libraries
+• popular icon packs
+• recognizable brand symbols
+Create original generic commercial artwork.
+
+==================================================
+CONTROLLED COMPLEXITY
+Icons should be simple enough to work at small sizes.
+But they must not look overly basic.
+Avoid:
+• excessive tiny details
+• unnecessary anchor points
+• messy intersections
+• complicated paths
+• fragile constructions
+• unreadable silhouettes
+Use strong and efficient vector shapes.
+
+==================================================
+NEGATIVE SPACE
+Use meaningful negative space where it improves:
+• recognition
+• separation
+• concept communication
+• visual clarity
+Do not add decorative cutouts without purpose.
+
+==================================================
+INDIVIDUAL GROUPS
+Each icon must be a separate independent group.
+Structure:
+ICON_01
+ICON_02
+ICON_03
+ICON_04
+ICON_05
+ICON_06
+ICON_07
+ICON_08
+ICON_09
+ICON_10
+Each icon must be independently selectable, movable, scalable, recolorable, editable, and deletable.
+
+==================================================
+ARTBOARD AND GRID
+Create a suitable white artboard automatically.
+Arrange the 10 icons in:
+5 × 2 grid.
+Maintain:
+• equal spacing
+• balanced margins
+• consistent visual scale
+• clean alignment
+• sufficient whitespace
+==================================================
+COMMERCIAL CONCEPT SELECTION PROCESS
+For every execution, internally generate at least 30–50 candidate concepts.
+Evaluate each candidate for:
+A. Commercial usefulness
+B. Buyer search intent
+C. Topic/category relevance
+D. Standalone usability
+E. Visual clarity
+F. Originality
+G. Professional design potential
+H. Small-size readability
+Reject weak concepts.
+Select the strongest 10 diverse concepts.
+Do NOT output this internal process.
+
+==================================================
+FINAL 45-PAIR UNIQUENESS CHECK
+There are 10 icons.
+Internally compare every icon against every other icon.
+Check all 45 possible pairs.
+For every pair verify:
+• different concept
+• different dominant object
+• different silhouette
+• different construction
+• different composition
+• different visual metaphor
+If any pair is too similar:
+REJECT AND REDESIGN ONE.
+Repeat the check until the complete set is sufficiently diverse.
+
+==================================================
+FINAL COMMERCIAL CHECK
+Before generating the final artwork, internally verify every icon:
+
+Is it commercially useful?
+Is it clearly understandable?
+Is it recognizable without text?
+Is it useful as a standalone asset?
+Could a designer realistically use it?
+Could a business realistically use it?
+Does it have clear visual communication value?
+Is it original in construction?
+Is the silhouette strong?
+Does it look professionally designed?
+If an icon fails the commercial test, replace it.
+
+==================================================
+FINAL TECHNICAL CHECK
+Before completing the script, internally verify:
+• exactly 10 icons
+• genuine vector artwork
+• solid black
+• pure white background
+• individual groups
+• 5 × 2 grid
+• clean spacing
+• no raster
+• no text
+• no branding
+• no external assets
+• complete JSX syntax
+• Illustrator compatibility
+==================================================
+NO AI OR INTERNET DEPENDENCY
+The JSX must work locally.
+Do NOT require:
+• internet
+• API
+• ChatGPT
+• Gemini
+• external AI
+• external files
+• external libraries
+Everything required must be contained inside the JSX.
+
+==================================================
+ILLUSTRATOR COMPATIBILITY
+Use Adobe Illustrator ExtendScript.
+Use safe ES3-compatible JavaScript syntax.
+Avoid modern JavaScript features that may fail in Illustrator ExtendScript.
+The script must run directly through:
+File → Scripts → Other Script
+
+==================================================
+MOST IMPORTANT FINAL RULE
+I want a GENERATOR, not a fixed icon collection.
+Every time I run the same JSX:
+CREATE A FRESH SET OF 10.
+The new set must aim to contain:
+NEW CONCEPTS
++
+NEW VISUAL CONSTRUCTIONS
++
+HIGH COMMERCIAL USEFULNESS
++
+CLEAR RECOGNITION
++
+PROFESSIONAL STOCK QUALITY
+Do NOT sacrifice commercial usefulness just to make the icons unusual.
+Do NOT sacrifice originality just to make them generic.
+The goal is:
+ORIGINAL + USEFUL + RECOGNIZABLE + PROFESSIONAL + COMMERCIAL + EDITABLE VECTOR ARTWORK.
+
+==================================================
+OUTPUT RULE
+Return ONLY the complete JSX source code.
+No explanation.
+No concept list.
+No instructions.
+No questions.
+No confirmation.
+No markdown explanation.
+Only the complete copy-ready JSX script.
+
+==================================================
+MASTER PROMPT COMPLETE
